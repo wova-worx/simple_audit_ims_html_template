@@ -1,0 +1,21 @@
+.navbar{
+background-color: #28a745 !important; 
+}
+
+.navbar-brand{
+color : #fff !important;
+}
+
+.navbar li a{
+color : #fff !important;
+}
+
+.active {
+background-color:  rgba(0,0,0,.03) !important;
+color: #000 !important;
+border: none !important; 
+}
+
+.right{
+text-align: right !important;
+}
